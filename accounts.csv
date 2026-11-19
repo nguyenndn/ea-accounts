@@ -1,4 +1,4 @@
-account,start_date,end_date,status,note,broker
+Account,Start_date,End_date,Status,Note,Broker, Account Type
 2001140658,2024-01-01,2030-12-30,active,VIP Client Current Account,
 600001145,2026-10-20,2099-12-31,active,VANTAGE: Kee,
 19286871,2024-06-01,2030-12-31,active,VantageReal: @Arynox,
